@@ -1,3 +1,3 @@
-Trial of the GitHub tutorial.
+Trial of the *GitHub* tutorial.
 
-Retox the freak in me.
+Retox the _freak_ in me.
